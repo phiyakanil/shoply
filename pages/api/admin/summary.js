@@ -1,6 +1,6 @@
 import Order from "@/components/Order";
 import Product from "@/models/Product";
-import User from "@/models/User";
+import User from "@/components/User";
 import db from "@/utils/db";
 import { getSession } from "next-auth/react";
 

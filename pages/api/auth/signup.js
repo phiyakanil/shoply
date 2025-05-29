@@ -1,4 +1,4 @@
-import User from "@/models/User";
+import User from "@/components/User";
 import db from "@/utils/db";
 import bcryptjs from "bcryptjs";
 
