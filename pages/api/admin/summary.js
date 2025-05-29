@@ -1,4 +1,4 @@
-import Order from "@/models/Order";
+import Order from "@/components/Order";
 import Product from "@/models/Product";
 import User from "@/models/User";
 import db from "@/utils/db";
